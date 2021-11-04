@@ -46,10 +46,6 @@ public class Main {
         mySavings /= 3000;
         System.out.println(mySavings);
 
-
-
-
-
         int a = 5;
         int b = 2;
         System.out.println("the sum of a and b is : " + (a+b));
@@ -57,14 +53,6 @@ public class Main {
         System.out.println("the sum of a and b is : " + (a*b));
         System.out.println("the sum of a and b is : " + (a/b));
         System.out.println("the sum of a and b is : " + (a%b));
-
-
-
-
-
-
-
-
 
     }
 }
